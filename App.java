@@ -1,5 +1,13 @@
 class App{
     public static void main(String[] args){
-        System.out.println("Hello World");
+<<<<<<< Updated upstream
+
+        //Bug - 02
+=======
+        
+        //Bug - 01
+        System.out.println(
+>>>>>>> Stashed changes
+        System.out.println("Hello World - develope branch");
     }
 }
